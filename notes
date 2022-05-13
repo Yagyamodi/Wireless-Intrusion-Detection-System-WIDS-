@@ -1,0 +1,27 @@
+1. Problem intro
+2. Model develop, labels
+3. Deauth with UI
+4. Evil Twin
+5. Test on unseen data
+6. Conclusion
+
+
+--> Make PPT
+--> Learn about project
+--> List out commands
+
+--> Make deauth demo video
+
+
+1. Learn about the attacks.
+2. Random forest why
+3. Pen testing tools:
+    what's AP?
+    Airodump, aireplay, airmon
+    Monitor mode
+    Bssid, Mac address
+    packet injection
+    random_seed()
+4. memorize commands.
+5. Evil Twin demo explanation.
+6. UI - used tkinker, start button triggers reading csv, stop button kills the process.
